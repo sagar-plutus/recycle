@@ -1,0 +1,13 @@
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\bin\Release\netcoreapp2.0\PurchaseTrackerAPI.xml
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\bin\Release\netcoreapp2.0\PurchaseTrackerAPI.deps.json
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\bin\Release\netcoreapp2.0\PurchaseTrackerAPI.runtimeconfig.json
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\bin\Release\netcoreapp2.0\PurchaseTrackerAPI.runtimeconfig.dev.json
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\bin\Release\netcoreapp2.0\PurchaseTrackerAPI.dll
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\bin\Release\netcoreapp2.0\PurchaseTrackerAPI.pdb
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\obj\Release\netcoreapp2.0\PurchaseTrackerAPI.csprojAssemblyReference.cache
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\obj\Release\netcoreapp2.0\PurchaseTrackerAPI.csproj.CoreCompileInputs.cache
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\obj\Release\netcoreapp2.0\PurchaseTrackerAPI.AssemblyInfoInputs.cache
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\obj\Release\netcoreapp2.0\PurchaseTrackerAPI.AssemblyInfo.cs
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\obj\Release\netcoreapp2.0\PurchaseTrackerAPI.dll
+D:\SimpliWorks\SimpliRecycle\API\simpliMaterialAPICode\PurchaseTrackerAPICode\PurchaseTrackerAPI\obj\Release\netcoreapp2.0\PurchaseTrackerAPI.pdb
